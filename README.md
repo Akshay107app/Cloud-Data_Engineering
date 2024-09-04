@@ -1,10 +1,19 @@
 # Clooud-Data_Engineering
-
+Every data engineer should have a solid understanding of Agile methodologies because it significantly impacts how they work, collaborate, and deliver value within an organization. Here's why Agile knowledge is essential for data engineers:
+Improved Collaboration and Communication
+Adaptability to Changing Requirements
+Faster Delivery of Value
+Enhanced Project Visibility and Accountability
+Better Risk Management
+Continuous Learning and Skill Development
+Customer-Centric Approach
 
 # Agile Methodology Simplified
 
 A group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. 
 Agile is a project management approach that divides projects into smaller, manageable parts called sprints. After each sprint, the team reviews their progress and makes improvements for the next phase. Agile is an iterative process, meaning it continuously evolves based on feedback and reflection.
+
+![image](https://github.com/user-attachments/assets/fd5724ba-5f90-4212-aa91-2d724cacecf8)
 
 
 ## The Four Core Values of Agile
