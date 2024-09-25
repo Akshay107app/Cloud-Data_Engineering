@@ -12,6 +12,7 @@ When you run a query, the query engine distributes the work in parallel across m
 ![image](https://github.com/user-attachments/assets/1c5daf7a-8aea-48fa-bacc-76db4e436bf4)
 
 
+
 Here are some key features of BigQuery storage:
 
 ### Managed
