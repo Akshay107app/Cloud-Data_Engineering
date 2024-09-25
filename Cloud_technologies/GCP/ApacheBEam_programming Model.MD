@@ -3,6 +3,7 @@
 ## Overview
 Apache Beam is an open source, unified model for defining both batch and streaming pipelines. The Apache Beam programming model simplifies the mechanics of large-scale data processing. Using one of the Apache Beam SDKs, you build a program that defines the pipeline. Then, you execute the pipeline on a specific platform such as Dataflow. This model lets you concentrate on the logical composition of your data processing job, rather than managing the orchestration of parallel processing.
 
+
 Apache Beam insulates you from the low-level details of distributed processing, such as coordinating individual workers, sharding datasets, and other such tasks. Dataflow fully manages these low-level details.
 
 A pipeline is a graph of transformations that are applied to collections of data. In Apache Beam, a collection is called a PCollection, and a transform is called a PTransform. A PCollection can be bounded or unbounded. A bounded PCollection has a known, fixed size, and can be processed using a batch pipeline. Unbounded PCollections must use a streaming pipeline, because the data is processed as it arrives.
