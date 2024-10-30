@@ -7,7 +7,7 @@ Enhanced Project Visibility and Accountability
 Better Risk Management
 Continuous Learning and Skill Development
 Customer-Centric Approach
-
+ 
 # Agile Methodology Simplified
 
 A group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. 
